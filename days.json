@@ -1,0 +1,37 @@
+[
+    {
+        "id": "1",
+        "dayEN": "Monday",
+        "dayAR": "الاثنين"
+    },
+    {
+        "id": "2",
+        "dayEN": "Tuesday",
+        "dayAR": "الثلاثاء"
+    },
+    {
+        "id": "3",
+        "dayEN": "Wednesday",
+        "dayAR": "الاربعاء"
+    },
+    {
+        "id": "4",
+        "dayEN": "Thursday",
+        "dayAR": "الخميس"
+    },
+    {
+        "id": "5",
+        "dayEN": "Friday",
+        "dayAR": "الجمعة"
+    },
+    {
+        "id": "6",
+        "dayEN": "Saturday",
+        "dayAR": "السبت"
+    },
+    {
+        "id": "7",
+        "dayEN": "Sunday",
+        "dayAR": "الاحد"
+    }
+]
