@@ -9,3 +9,19 @@ https://ahmed0saber.github.io/Fake-APIs/
 for example
 
 https://ahmed0saber.github.io/Fake-APIs/days.json
+
+then fetch it
+
+<pre>
+  <code>
+    const url = "https://ahmed0saber.github.io/Fake-APIs/days.json"
+    const getData = () => {
+        fetch(url)
+        .then(response => response.json())
+        .then(data => {
+            console.log(data)
+        })
+    }
+    getData()
+  </code>
+</pre>
