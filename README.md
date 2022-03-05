@@ -25,3 +25,7 @@ then fetch it
     getData()
   </code>
 </pre>
+
+
+### Multi line strings in JSON
+https://www.gun.io/blog/multi-line-strings-in-json
